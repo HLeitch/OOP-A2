@@ -6,6 +6,7 @@ namespace OOP_Assessment_2
 {
     public static class Output
     {
+        //
         public static string Diff(bool result)
         {
             if (result== true)

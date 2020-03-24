@@ -6,7 +6,7 @@ namespace OOP_Assessment_2
 {
     public class File
     {
-
+        //
         public File(string name, string[] cont)
         {
             _name = name;

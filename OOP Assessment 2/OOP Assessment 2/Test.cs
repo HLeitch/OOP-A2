@@ -16,6 +16,7 @@ namespace OOP_Assessment_2
         /// <returns></returns>
         public static bool GitDiff(File f1, File f2)
         {
+            //
           int index = 0;
 
             foreach (string c1 in f1.contents)
