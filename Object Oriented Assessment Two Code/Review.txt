@@ -1,0 +1,22 @@
+
+Comments needed throughout
+
+Very Concise code
+
+
+Line    Comment
+
+
+
+50      Good use of a dictionary
+
+52	"Directory.GetFiles" can be used to search a directory and return 
+	file names meaning the files can be replaced without changing code
+
+63      Make the directory search a variable to 
+    	prevent rewriting of identical code
+
+74      Give the user an opportunity to repeat function
+
+71	If the above is changed, this line would prevent repetition if
+   	the files tested were different
